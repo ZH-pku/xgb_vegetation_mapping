@@ -1,0 +1,43 @@
+VegeName,VegeMeaning
+C1,Orchards or vineyards and pasture
+C2,Horticultural crops and pasture
+F1,Podocarp forest
+F2,Lowland podocarp-broadleaved forest
+F3,Highland podocarp-broadleaved forest
+F4,Lowland podocarp-broadleaved-beech forest
+F5,Highland podocarp-broadleaved-beech forest
+F6,Beech forest
+F7,Beech-broadleaved forest
+F8,Broadleaved forest
+F9,Exotic forest
+FS1,Kauri and Leptospermum or mixed indigenous scrub
+FS2,Podocarp-broadleaved forest and scrub
+FS3,Podocarp-broadleaved-beech forest and scrub
+FS4,Beech forest and scrub
+FS5,Beech-broadleaved forest and scrub
+FS6,Broadleaved forest and scrub
+FS7,Sub-alpine scrub and indigenous forest
+G1,Improved pasture
+G2,Unimproved pasture
+G3,Short tussock grassland
+G4,Snow tussock grassland
+G5,Short tussock-snow tussock grassland
+G6,Red tussock grassland
+GF1,Pasture and podocarp-broadleaved forest
+GF3,Pasture and beech or podocarp forest
+GF5,Tussock grassland and beech forest
+GF6,Tussock grassland and podocarp-broadleaved forest
+GS1,Grassland and mixed indigenous scrub
+GS2,Grassland and Leptospermum scrub or fern
+GS4,Tussock grassland and sub-alpine scrub
+GS5,Grassland and Dracophyllum scrub
+GS6,Grassland and gorse scrub
+GS7,Grassland and matagouri
+GS8,Grassland with sweet brier or sweet brier and matagouri
+I,Ice
+M1,Sub-alpine or alpine herbfield
+M2,Wetland communities
+M4,Pakihi heartland communities
+S1,Mixed indigenous scrub
+S2,Leptospermum scrub or fern
+S3,Sub-alpine scrub
