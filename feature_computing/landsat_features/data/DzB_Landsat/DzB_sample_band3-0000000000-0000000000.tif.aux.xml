@@ -1,0 +1,17 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_COVARIANCES">0.002807995829943204</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.5116001367569</MDI>
+      <MDI key="STATISTICS_MEAN">0.1794749722266</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.060080964118242</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.05299052585079</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
